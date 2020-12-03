@@ -1,3 +1,11 @@
+.bg-bitcoin {
+    background-image: url(images/newly-added/bitcoin4.jpg);
+}
+
+.bg-dark {
+    background-color: black;
+}
+
 .income-space {
     padding-right: 10px;
     padding-left: 10px;
@@ -9,6 +17,10 @@
 
 .perks-margin-zero {
     margin-left: 0;
+}
+
+.perks-background-color {
+    background: #efefef;
 }
 
 .contact-button {

@@ -41,5 +41,9 @@
 }
 
 .text-logo-top {
-    color: black;
+    color: #fff;
+}
+
+.main-header.sticky .text-logo-top {
+    color: #050748;
 }

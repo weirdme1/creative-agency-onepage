@@ -1,9 +1,11 @@
-.bg-bitcoin {
-    background-image: url(images/newly-added/bitcoin4.jpg);
-}
-
-.bg-dark {
-    background-color: black;
+.background-overlay {
+    height: 100vh;
+    background: black;
+    opacity: 0.85;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
 }
 
 .income-space {
